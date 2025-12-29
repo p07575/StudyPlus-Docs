@@ -1,19 +1,19 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+studyfate:
+  label: StudyFate
+  permalink: /studyfate
+  description: StudyFate tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+tech:
+  label: Tech
+  permalink: /tech
+  description: Tech tag description
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+announcements:
+  label: Announcements
+  permalink: /announcements
+  description: Announcements tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+admin:
+  label: Admin
+  permalink: /admin
+  description: Admin tag description
