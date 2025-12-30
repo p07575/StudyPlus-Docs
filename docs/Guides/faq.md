@@ -68,7 +68,7 @@ Currently, StudyPlus requires an internet connection. Offline mode is planned fo
 
 ### What data does StudyPlus collect?
 
-We collect account information (email, name), synced eClass data, and anonymous usage analytics. See our [Privacy & Security](/docs/guides/privacy) page for details.
+We collect account information (email, name), synced eClass data, and anonymous usage analytics. See our [Privacy & Security](./privacy) page for details.
 
 ### How do I delete my account?
 
