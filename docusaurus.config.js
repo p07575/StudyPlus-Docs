@@ -11,8 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'StudyPlus Docs',
-  tagline: 'Documentation for StudyPlus',
-  favicon: 'img/favicon.ico',
+  tagline: 'Your All-in-One Study Companion',
+  favicon: 'img/studyplus-docs-logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'StudyFate', // Usually your GitHub org/user name.
+  organizationName: 'p07575', // Usually your GitHub org/user name.
   projectName: 'StudyPlus-Docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -49,8 +49,6 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -60,8 +58,6 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -78,22 +74,22 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/studyplus-docs-logo.png',
       colorMode: {
         respectPrefersColorScheme: true,
       },
       navbar: {
         title: 'StudyPlus Docs',
         logo: {
-          alt: 'StudyPlus Logo',
-          src: 'img/logo.svg',
+          alt: 'StudyPlus Docs Logo',
+          src: 'img/studyplus-docs-logo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guides',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -107,10 +103,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Site',
+            title: 'Documentation',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Getting Started',
                 to: '/docs/intro',
               },
               {
