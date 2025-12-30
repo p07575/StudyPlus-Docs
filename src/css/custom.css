@@ -1,30 +1,202 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * StudyPlus Documentation - Custom CSS
+ * Using Coastal Retreat color palette
  */
 
-/* You can override the default Infima variables here. */
+/* Coastal Retreat Color Palette */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* Primary colors */
+  --ifm-color-primary: #335765;
+  --ifm-color-primary-dark: #2e4e5b;
+  --ifm-color-primary-darker: #2b4a56;
+  --ifm-color-primary-darkest: #233d47;
+  --ifm-color-primary-light: #38606f;
+  --ifm-color-primary-lighter: #3b6474;
+  --ifm-color-primary-lightest: #437283;
+  
+  /* Secondary/accent colors */
+  --studyplus-secondary: #74A8A4;
+  --studyplus-tertiary: #B6D9E0;
+  --studyplus-background: #DBE2DC;
+  --studyplus-accent: #7F543D;
+  
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(51, 87, 101, 0.1);
+  
+  /* Backgrounds */
+  --ifm-background-color: #fafafa;
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: #335765;
+  
+  /* Links */
+  --ifm-link-color: #335765;
+  --ifm-link-hover-color: #74A8A4;
+  
+  /* Hero banner */
+  --ifm-hero-background-color: #335765;
+  --ifm-hero-text-color: #ffffff;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark mode using Coastal Retreat */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #74A8A4;
+  --ifm-color-primary-dark: #63999a;
+  --ifm-color-primary-darker: #5b9191;
+  --ifm-color-primary-darkest: #4a7c7d;
+  --ifm-color-primary-light: #85b7ae;
+  --ifm-color-primary-lighter: #8dbbb6;
+  --ifm-color-primary-lightest: #a4cbc4;
+  
+  --docusaurus-highlighted-code-line-bg: rgba(116, 168, 164, 0.2);
+  
+  --ifm-background-color: #1a2428;
+  --ifm-navbar-background-color: #1f2d32;
+  --ifm-footer-background-color: #1a2428;
+  
+  --ifm-link-color: #B6D9E0;
+  --ifm-link-hover-color: #74A8A4;
+}
+
+/* Hero Banner Styling */
+.hero--primary {
+  background: linear-gradient(135deg, #335765 0%, #74A8A4 100%);
+}
+
+.hero__title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.hero__subtitle {
+  font-size: 1.25rem;
+  opacity: 0.9;
+}
+
+/* Button Styles */
+.button--secondary {
+  background-color: #ffffff;
+  color: #335765;
+  border: none;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.button--secondary:hover {
+  background-color: #B6D9E0;
+  color: #335765;
+}
+
+/* Feature Cards */
+.feature-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 2rem;
+  border: 1px solid #DBE2DC;
+  transition: all 0.2s ease;
+}
+
+.feature-card:hover {
+  box-shadow: 0 8px 24px rgba(51, 87, 101, 0.12);
+  border-color: #74A8A4;
+}
+
+[data-theme='dark'] .feature-card {
+  background: #1f2d32;
+  border-color: #2a3b42;
+}
+
+[data-theme='dark'] .feature-card:hover {
+  border-color: #74A8A4;
+}
+
+/* Feature Icon Styling */
+.feature-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.feature-icon--primary {
+  background-color: #B6D9E0;
+  color: #335765;
+}
+
+.feature-icon--secondary {
+  background-color: #DBE2DC;
+  color: #74A8A4;
+}
+
+.feature-icon--accent {
+  background-color: #f0e6e0;
+  color: #7F543D;
+}
+
+/* Navbar Logo */
+.navbar__logo img {
+  height: 32px;
+}
+
+/* Footer Links */
+.footer--dark {
+  background-color: #335765;
+}
+
+.footer--dark a:hover {
+  color: #B6D9E0;
+}
+
+/* Sidebar Styling */
+.menu__link--active {
+  color: #335765;
+  font-weight: 600;
+}
+
+[data-theme='dark'] .menu__link--active {
+  color: #74A8A4;
+}
+
+/* Code Blocks */
+.prism-code {
+  border-radius: 8px;
+}
+
+/* Table of Contents */
+.table-of-contents__link--active {
+  color: #335765;
+  font-weight: 600;
+}
+
+[data-theme='dark'] .table-of-contents__link--active {
+  color: #74A8A4;
+}
+
+/* Alert/Admonition Styling */
+.alert--info {
+  --ifm-alert-background-color: #B6D9E0;
+  --ifm-alert-border-color: #74A8A4;
+  --ifm-alert-foreground-color: #335765;
+}
+
+.alert--success {
+  --ifm-alert-background-color: #DBE2DC;
+  --ifm-alert-border-color: #74A8A4;
+  --ifm-alert-foreground-color: #335765;
+}
+
+/* Badge Styling */
+.badge--primary {
+  background-color: #335765;
+}
+
+.badge--secondary {
+  background-color: #74A8A4;
+}
+
+/* Search */
+.DocSearch-Button {
+  border-radius: 8px;
 }
