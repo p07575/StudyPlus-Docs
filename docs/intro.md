@@ -2,46 +2,47 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to **StudyPlus** - your all-in-one study companion that helps you stay organized and on top of your assignments.
 
-## Getting Started
+## What is StudyPlus?
 
-Get started by **creating a new site**.
+StudyPlus is a student study management platform that integrates with your school's eClass system to automatically sync your:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- 📝 **Homework assignments** - Never miss a deadline
+- 📅 **Calendar events** - Stay organized with synced schedules  
+- ✅ **To-do lists** - AI-powered task breakdown
+- 📚 **Study materials** - Generate flashcards and summaries
 
-### What you'll need
+## Quick Start
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### 1. Create an Account
 
-## Generate a new site
+Visit [studypl.us](https://studypl.us) and contact your school administrator to get access. StudyPlus is available for registered schools only.
 
-Generate a new Docusaurus site using the **classic template**.
+### 2. Connect Your eClass
 
-The classic template will automatically be added to your project after you run the command:
+Once logged in, navigate to **eClass** in the sidebar and enter your school credentials. We only read your data - we never modify anything on eClass.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### 3. Start Studying Smarter
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Your assignments and calendar will automatically sync. Use the AI-powered tools to:
+- Break down assignments into manageable tasks
+- Generate study materials from your notes
+- Track your progress on the dashboard
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Features Overview
 
-## Start your site
+| Feature | Description |
+|---------|-------------|
+| **eClass Sync** | Automatic homework and calendar sync |
+| **Smart Tasks** | AI breaks assignments into actionable to-dos |
+| **Material Gen** | Create flashcards and summaries from notes |
+| **Dashboard** | Weather, progress tracking, and quick stats |
 
-Run the development server:
+## Need Help?
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- 📧 Email: [support@studypl.us](mailto:support@studypl.us)
+- 🏫 Schools: [sales@studypl.us](mailto:sales@studypl.us)
+- 📸 Instagram: [@studypl.us](https://instagram.com/studypl.us)
