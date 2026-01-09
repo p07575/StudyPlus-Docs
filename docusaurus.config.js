@@ -137,6 +137,19 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Privacy Policy',
+                href: 'https://app.studypl.us/privacy-policy.html',
+              },
+              {
+                label: 'Terms of Service',
+                href: 'https://app.studypl.us/terms-of-service.html',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} StudyPlus, StudyFate Inc.`,
       },
