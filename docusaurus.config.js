@@ -142,11 +142,11 @@ const config = {
             items: [
               {
                 label: 'Privacy Policy',
-                href: 'https://app.studypl.us/privacy-policy.html',
+                href: 'https://studypl.us/privacy-policy.html',
               },
               {
                 label: 'Terms of Service',
-                href: 'https://app.studypl.us/terms-of-service.html',
+                href: 'https://studypl.us/terms-of-service.html',
               },
             ],
           },
