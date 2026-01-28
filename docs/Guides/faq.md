@@ -69,7 +69,7 @@ No. StudyPlus only **reads** data from eClass. We cannot submit assignments, cha
 
 ### What is SAILS?
 
-SAILS (Study AI Learning System) is our AI-powered study toolkit. It includes:
+SAILS (Self-paced AI-powered Interactive Learning Suite) is our AI-powered study toolkit. It includes:
 - **Material Generator** - Create study notes from any topic
 - **To-Do Generator** - Break assignments into tasks with priorities
 
