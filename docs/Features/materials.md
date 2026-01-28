@@ -2,73 +2,60 @@
 sidebar_position: 5
 ---
 
-# Study Materials
+# SAILS - AI Study Tools
 
-Generate AI-powered study materials from your notes and assignments.
+SAILS (Study AI Learning System) is your hub for AI-powered study assistance.
 
-## Material Generator
+## Accessing SAILS
 
-The Material Generator helps you create:
+Navigate to **SAILS** in the sidebar to access all AI study tools.
 
-- 📖 **Summaries** - Condense long content
-- 🃏 **Flashcards** - Quick review cards
-- ❓ **Quiz questions** - Test yourself
-- 📝 **Study guides** - Organized review sheets
+## Available Tools
 
-## How to Use
+### Study Material Generator
 
-### 1. Upload or Paste Content
+Generate comprehensive study materials from any topic:
 
-You can input content by:
-- Pasting text directly
-- Uploading a document (PDF, DOCX)
-- Selecting an assignment from eClass
+1. Go to **SAILS** → **Study Material Generator**
+2. Enter your topic or subject matter
+3. Click **Generate**
+4. Watch as the AI creates study materials in real-time
 
-### 2. Choose Output Type
+The generator uses streaming technology so you can see content as it's being generated.
 
-Select what you want to generate:
+#### Output Options
 
-| Type | Best For |
-|------|----------|
-| **Summary** | Long readings, textbook chapters |
-| **Flashcards** | Vocabulary, definitions, facts |
-| **Quiz** | Self-testing before exams |
-| **Study Guide** | Comprehensive review |
+Toggle between viewing modes:
+- **Rendered** - Formatted with headers, bullet points, and styling
+- **Raw** - Plain text/markdown view
 
-### 3. Customize Settings
+### To-Do Generator
 
-Adjust generation settings:
-- **Length**: Brief, Standard, Detailed
-- **Style**: Bullet points, Paragraphs, Q&A
-- **Focus**: Key concepts, All details
+AI-powered task breakdown for assignments:
 
-### 4. Generate & Review
+1. Go to **SAILS** → **To-Do List Generator**
+2. Describe your assignment or project
+3. The AI breaks it into actionable tasks with priorities
+4. Review and edit the generated tasks
+5. Add selected tasks to your To-Do List
 
-Click **Generate** and review the output. You can:
-- Edit the generated content
-- Regenerate with different settings
-- Save to your materials library
+### Calendar
+
+Quick access to your synced calendar from the SAILS hub.
 
 ## Tips for Best Results
 
-:::tip Input Quality
-The better your input, the better the output. Include:
-- Clear topic headings
-- Key terms and definitions
-- Important dates and facts
+:::tip Prompting Tips
+For better AI-generated content:
+- Be specific about the topic
+- Include the subject area (e.g., "Biology - Cell Division")
+- Mention the level (e.g., "HKDSE level")
+- Specify what you need (notes, summary, key points)
 :::
 
-## Saved Materials
+## Coming Soon
 
-All generated materials are saved in your library:
-
-1. Go to **Materials** in the sidebar
-2. Browse by subject or date
-3. Click to review or edit
-
-## Export Options
-
-Export your materials as:
-- PDF document
-- Print-ready format
-- Plain text
+Additional SAILS features planned for future updates:
+- 🎥 Video Summarizer
+- 📝 AI Notes & Flash Cards
+- 📖 HKDSE Practice Questions

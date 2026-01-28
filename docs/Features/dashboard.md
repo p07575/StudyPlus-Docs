@@ -10,46 +10,49 @@ The Dashboard is your home base in StudyPlus, giving you a quick overview of eve
 
 When you log in, the Dashboard shows you:
 
-- 🌤️ **Weather widget** - Current weather for your location
-- 📊 **Task summary** - Upcoming deadlines and progress
-- 📝 **Recent assignments** - Latest synced homework
-- 📅 **Today's schedule** - What's on your calendar
+- 🌤️ **Weather widget** - Current weather for Hong Kong
+- 👋 **Welcome message** - Personalized greeting with your name
+- 📊 **Quick stats** - Upcoming events and deadlines
+- 🔗 **eClass status** - Connection status indicator
+- 📝 **Recent activities** - Latest assignments and deadlines
 
 ## Weather Widget
 
-The weather widget shows real-time conditions for your location:
+The weather widget (displayed in the right sidebar on desktop) shows real-time conditions from the Hong Kong Observatory:
 
 - Current temperature
 - Weather conditions
-- Humidity and wind speed
-- 5-day forecast
+- UV index
+- Humidity
+- Weather warnings (if any)
 
-To update your location, go to **Settings** → **Location**.
+The weather data is automatically detected based on your IP location.
 
-## Task Summary
+## Quick Stats
 
 See at a glance:
 
 | Metric | Description |
 |--------|-------------|
-| **Due Today** | Tasks that need attention today |
-| **Due This Week** | Upcoming deadlines |
-| **Overdue** | Past-due items needing action |
-| **Completed** | Your recent accomplishments |
+| **Upcoming Events** | Events happening soon |
+| **Deadlines** | Assignments due this week |
 
-## Quick Actions
+## eClass Status
 
-From the Dashboard, you can quickly:
+The Dashboard shows your eClass connection status:
 
-- ✅ Mark tasks as complete
-- 📝 Add a new to-do
-- 🔄 Refresh eClass sync
-- 📚 Generate study materials
+- ✅ **Connected** - eClass is linked and syncing
+- ❌ **Not Connected** - Click to set up eClass integration
 
-## Customization
+## Navigation Shortcuts
 
-The Dashboard layout can be customized in **Settings**:
+From the Dashboard, quickly access:
 
-- Show/hide widgets
-- Reorder sections
-- Change theme (light/dark mode)
+- 📚 **eClass** - View homework and assignments
+- 📅 **Calendar** - Check your schedule
+- ✅ **To-Do List** - Manage your tasks
+- 🤖 **SAILS** - AI study tools
+
+## Theme
+
+Toggle between light and dark mode using the switch in the sidebar.

@@ -4,58 +4,52 @@ sidebar_position: 4
 
 # Calendar
 
-View all your events and deadlines in one unified calendar.
+View all your eClass events and school deadlines in a unified calendar view.
 
 ## Calendar Views
 
-Switch between different views:
+Switch between different views using the toolbar:
 
 - **Month** - See the full month at a glance
 - **Week** - Detailed weekly view
 - **Day** - Hour-by-hour agenda
 - **Agenda** - List view of upcoming events
 
-## Event Types
+## eClass Events
 
-Events are color-coded by type:
+Events synced from your eClass calendar appear automatically:
 
-| Color | Type |
-|-------|------|
-| 🔵 Blue | Class schedule |
-| 🟢 Green | Assignment deadline |
-| 🟡 Yellow | Personal event |
-| 🔴 Red | Exam/Important |
-
-## Adding Events
-
-### Manual Events
-
-1. Click on a date/time slot
-2. Enter event details
-3. Set reminders (optional)
-4. Click **Save**
-
-### Synced Events
-
-Events from eClass sync automatically:
-- Assignment due dates
-- Class schedules
 - School calendar events
+- Assignment deadlines
+- Class schedules
+- Exam dates
 
-## Reminders
+Events are color-coded to help you distinguish between different types.
 
-Set up reminders for important events:
+## Viewing Event Details
 
-- **1 day before** - Email notification
-- **1 hour before** - In-app notification
-- **Custom** - Set your own timing
+Click on any event to see more details:
+
+- Event title
+- Date and time
+- Description (if available)
+- Source (eClass)
+
+## Navigation
+
+Use the calendar toolbar to:
+
+- Navigate between months/weeks
+- Jump to **Today**
+- Switch between calendar views
 
 ## Integration
 
-The Calendar integrates with:
+The Calendar syncs with:
 
-- ✅ eClass calendar
-- ✅ To-Do List deadlines
+- ✅ eClass school calendar
 - ✅ Assignment due dates
 
-All your deadlines in one place!
+:::note Coming Soon
+Google Calendar integration is planned for a future update.
+:::

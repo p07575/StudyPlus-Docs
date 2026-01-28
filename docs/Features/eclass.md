@@ -9,23 +9,51 @@ Connect your school's eClass account to automatically sync your assignments and 
 ## Connecting Your Account
 
 1. Navigate to **eClass** in the sidebar
-2. Enter your eClass credentials
-3. Click **Connect**
+2. Select your school from the dropdown
+3. Enter your eClass username and password
+4. Choose a credential storage option (see below)
+5. Click **Login**
 
 :::info Security Note
-StudyPlus only **reads** your eClass data. We never modify, delete, or post anything to your eClass account. Your credentials are encrypted and stored securely.
+StudyPlus only **reads** your eClass data. We never modify, delete, or post anything to your eClass account. Your credentials can be encrypted and stored securely.
 :::
+
+## Credential Storage Options
+
+When connecting to eClass, you can choose how to store your credentials:
+
+| Option | Description |
+|--------|-------------|
+| **Don't Save** | Enter credentials each session (most secure) |
+| **Save Plain** | Store credentials for auto-login |
+| **Save Encrypted** | Encrypt credentials with your StudyPlus password (recommended) |
+
+To manage stored credentials, go to **Settings** → **Binding** → **eClass**.
 
 ## What Gets Synced
 
-### Homework Assignments
+### Homework Tab
 
-All homework assignments from your eClass courses are automatically imported, including:
+Current homework assignments from your eClass courses, including:
 
-- Assignment title and description
-- Due date and time
-- Course name
+- Assignment title
+- Subject/course name
+- Due date
 - Submission status
+
+You can mark homework as **complete** in StudyPlus to track your progress.
+
+### Info Tab
+
+Non-submission items and notices from eClass that don't require a submission.
+
+### Records Tab
+
+Your homework history with filtering options:
+
+- Filter by subject
+- Filter by submission status
+- Paginated browsing of past assignments
 
 ### Calendar Events
 
@@ -36,10 +64,17 @@ Your eClass calendar events sync to the StudyPlus Calendar, including:
 - School events
 - Assignment deadlines
 
-## Sync Frequency
+## Homework Completion Tracking
 
-- **Automatic sync**: Every 15 minutes while logged in
-- **Manual sync**: Click the refresh button anytime
+StudyPlus tracks which homework you've completed:
+
+- Click the **checkmark** on any homework item to mark it complete
+- Completed homework is stored and synced across sessions
+- View your homework statistics in your profile
+
+## Manual Refresh
+
+Click the **refresh button** in the eClass page to fetch the latest data from eClass.
 
 ## Troubleshooting
 
@@ -48,23 +83,24 @@ Your eClass calendar events sync to the StudyPlus Calendar, including:
 If you see a connection error:
 
 1. Verify your eClass credentials are correct
-2. Check if eClass is accessible from your network
-3. Try logging out and back in
+2. Check if eClass is accessible (try logging in directly)
+3. Your school's eClass may be under maintenance
+4. Try logging out and back in
 
 ### Missing Assignments
 
 If assignments aren't showing:
 
 1. Ensure the assignment is published on eClass
-2. Wait for the next automatic sync or trigger a manual refresh
+2. Click the manual refresh button
 3. Check the assignment's course is enrolled
 
 ## Disconnecting
 
 To disconnect your eClass account:
 
-1. Go to **Settings**
-2. Click **Disconnect eClass**
+1. Go to **Settings** → **Binding**
+2. Click **Disconnect** under eClass
 3. Confirm the disconnection
 
-Your synced data will remain in StudyPlus until you manually delete it.
+Your stored credentials will be deleted. Cached homework data remains until you manually clear it.
