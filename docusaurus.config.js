@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'StudyPlus Docs',
+  title: 'Studyember Docs',
   tagline: 'Your All-in-One Study Companion',
   favicon: 'img/studyplus-docs-logo.png',
 
@@ -79,9 +79,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'StudyPlus Docs',
+        title: 'Studyember Docs',
         logo: {
-          alt: 'StudyPlus Docs Logo',
+          alt: 'Studyember Docs Logo',
           src: 'img/studyplus-docs-logo.png',
         },
         items: [
@@ -119,7 +119,7 @@ const config = {
             title: 'Website',
             items: [
               {
-                label: 'StudyPlus',
+                label: 'Studyember',
                 href: 'https://studypl.us',
               },
             ],
@@ -151,7 +151,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} StudyPlus, StudyFate Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Studyember, StudyFate Inc.`,
       },
       prism: {
         theme: prismThemes.github,

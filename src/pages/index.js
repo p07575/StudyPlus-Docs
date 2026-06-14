@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title="Home"
-      description="Documentation for StudyPlus - Your All-in-One Study Companion">
+      description="Documentation for Studyember - Your All-in-One Study Companion">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

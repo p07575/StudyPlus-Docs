@@ -1,4 +1,4 @@
-# StudyPlus Documentation
+# Studyember Documentation
 # Allow search engines to index the docs
 
 User-agent: *

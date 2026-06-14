@@ -32,7 +32,7 @@ const FeatureList = [
     description: (
       <>
         Generate study materials, flashcards, and summaries using AI. 
-        Upload your notes and let StudyPlus help you prepare for exams.
+        Upload your notes and let Studyember help you prepare for exams.
       </>
     ),
   },

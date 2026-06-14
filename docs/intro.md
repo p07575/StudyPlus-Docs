@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Getting Started
 
-Welcome to **StudyPlus** - your all-in-one study companion that helps you stay organized and on top of your assignments.
+Welcome to **Studyember** - your all-in-one study companion that helps you stay organized and on top of your assignments.
 
-## What is StudyPlus?
+## What is Studyember?
 
-StudyPlus is a student study management platform that integrates with your school's eClass system to automatically sync your:
+Studyember is a student study management platform that integrates with your school's eClass system to automatically sync your:
 
 - 📝 **Homework assignments** - Never miss a deadline
 - 📅 **Calendar events** - Stay organized with synced schedules  

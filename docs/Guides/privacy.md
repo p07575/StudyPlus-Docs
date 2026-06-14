@@ -20,13 +20,13 @@ Your privacy and data security are our top priorities.
 
 - ❌ eClass passwords (stored encrypted, never viewed)
 - ❌ Personal files not explicitly uploaded
-- ❌ Browsing history outside StudyPlus
+- ❌ Browsing history outside Studyember
 - ❌ Location data (unless you enable weather)
 
 ## eClass Security
 
 :::info Read-Only Access
-StudyPlus only **reads** data from eClass. We cannot and will never:
+Studyember only **reads** data from eClass. We cannot and will never:
 - Submit assignments
 - Change grades
 - Modify any eClass content

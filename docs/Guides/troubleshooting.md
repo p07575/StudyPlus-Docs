@@ -10,7 +10,7 @@ Common issues and how to fix them.
 
 ### Can't Log In
 
-**Problem**: Unable to log into StudyPlus
+**Problem**: Unable to log into Studyember
 
 **Solutions**:
 1. Check your email and password are correct

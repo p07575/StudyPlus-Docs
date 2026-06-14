@@ -4,21 +4,21 @@ sidebar_position: 3
 
 # FAQ
 
-Frequently asked questions about StudyPlus.
+Frequently asked questions about Studyember.
 
 ## General
 
-### What is StudyPlus?
+### What is Studyember?
 
-StudyPlus is a student study management platform that integrates with your school's eClass system to help you stay organized with assignments, deadlines, and AI-powered study tools.
+Studyember is a student study management platform that integrates with your school's eClass system to help you stay organized with assignments, deadlines, and AI-powered study tools.
 
-### Is StudyPlus free?
+### Is Studyember free?
 
-StudyPlus is available to students at registered schools. Your school administrator will provide an invite code for registration.
+Studyember is available to students at registered schools. Your school administrator will provide an invite code for registration.
 
 ### Which schools are supported?
 
-StudyPlus currently supports schools using eClass systems in Hong Kong. Contact us to check if your school is compatible.
+Studyember currently supports schools using eClass systems in Hong Kong. Contact us to check if your school is compatible.
 
 ## Account
 
@@ -44,13 +44,13 @@ Yes! You can use **Login with Google** on the login page. If you already have an
 Yes! You have three options for credential storage:
 - **Don't Save** - Enter credentials each time (most secure)
 - **Save Plain** - Stored for convenience
-- **Save Encrypted** - Encrypted with AES-256 using your StudyPlus password (recommended)
+- **Save Encrypted** - Encrypted with AES-256 using your Studyember password (recommended)
 
 Our team cannot view your encrypted passwords.
 
-### Does StudyPlus modify my eClass data?
+### Does Studyember modify my eClass data?
 
-No. StudyPlus only **reads** data from eClass. We cannot submit assignments, change grades, or modify any content.
+No. Studyember only **reads** data from eClass. We cannot submit assignments, change grades, or modify any content.
 
 ### Why are some assignments missing?
 
@@ -77,13 +77,13 @@ SAILS (Self-paced AI-powered Interactive Learning Suite) is our AI-powered study
 
 Describe your assignment or project, and our AI breaks it down into smaller, actionable tasks with priority levels (High/Medium/Low). You can edit tasks before adding them to your list.
 
-### Does StudyPlus work offline?
+### Does Studyember work offline?
 
-Currently, StudyPlus requires an internet connection. Offline mode is planned for a future update.
+Currently, Studyember requires an internet connection. Offline mode is planned for a future update.
 
 ## Privacy
 
-### What data does StudyPlus collect?
+### What data does Studyember collect?
 
 We collect account information (email, name), synced eClass data, and anonymous usage analytics. See our [Privacy & Security](./privacy) page for details.
 
@@ -102,7 +102,7 @@ Go to **Settings** → **Binding** → **eClass** and click **Disconnect**. Your
 
 ### Is there a mobile app?
 
-StudyPlus is a responsive web app that works on mobile browsers. A native app is planned for the future.
+Studyember is a responsive web app that works on mobile browsers. A native app is planned for the future.
 
 ### Why do I keep getting logged out?
 

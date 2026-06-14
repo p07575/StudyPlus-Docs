@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Dashboard
 
-The Dashboard is your home base in StudyPlus, giving you a quick overview of everything that matters.
+The Dashboard is your home base in Studyember, giving you a quick overview of everything that matters.
 
 ## Overview
 

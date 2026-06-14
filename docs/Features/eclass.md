@@ -15,7 +15,7 @@ Connect your school's eClass account to automatically sync your assignments and 
 5. Click **Login**
 
 :::info Security Note
-StudyPlus only **reads** your eClass data. We never modify, delete, or post anything to your eClass account. Your credentials can be encrypted and stored securely.
+Studyember only **reads** your eClass data. We never modify, delete, or post anything to your eClass account. Your credentials can be encrypted and stored securely.
 :::
 
 ## Credential Storage Options
@@ -26,7 +26,7 @@ When connecting to eClass, you can choose how to store your credentials:
 |--------|-------------|
 | **Don't Save** | Enter credentials each session (most secure) |
 | **Save Plain** | Store credentials for auto-login |
-| **Save Encrypted** | Encrypt credentials with your StudyPlus password (recommended) |
+| **Save Encrypted** | Encrypt credentials with your Studyember password (recommended) |
 
 To manage stored credentials, go to **Settings** → **Binding** → **eClass**.
 
@@ -41,7 +41,7 @@ Current homework assignments from your eClass courses, including:
 - Due date
 - Submission status
 
-You can mark homework as **complete** in StudyPlus to track your progress.
+You can mark homework as **complete** in Studyember to track your progress.
 
 ### Info Tab
 
@@ -57,7 +57,7 @@ Your homework history with filtering options:
 
 ### Calendar Events
 
-Your eClass calendar events sync to the StudyPlus Calendar, including:
+Your eClass calendar events sync to the Studyember Calendar, including:
 
 - Class schedules
 - Exam dates
@@ -66,7 +66,7 @@ Your eClass calendar events sync to the StudyPlus Calendar, including:
 
 ## Homework Completion Tracking
 
-StudyPlus tracks which homework you've completed:
+Studyember tracks which homework you've completed:
 
 - Click the **checkmark** on any homework item to mark it complete
 - Completed homework is stored and synced across sessions

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # To-Do List
 
-Manage your tasks and assignments with the StudyPlus to-do system.
+Manage your tasks and assignments with the Studyember to-do system.
 
 ## Accessing To-Do List
 
