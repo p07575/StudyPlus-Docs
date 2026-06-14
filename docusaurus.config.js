@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'p07575', // Usually your GitHub org/user name.
-  projectName: 'StudyPlus-Docs', // Usually your repo name.
+  projectName: 'Studyember-Docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -93,7 +93,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/p07575/StudyPlus-Docs',
+            href: 'https://github.com/p07575/Studyember-Docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -129,7 +129,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/p07575/StudyPlus-Docs',
+                href: 'https://github.com/p07575/Studyember-Docs',
               },
               {
                 label: 'Instagram',
